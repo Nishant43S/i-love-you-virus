@@ -43,9 +43,15 @@ If the user selects "No":
   While the prank causes temporary system shutdowns and error messages, it does not harm the operating system, files, or hardware. However, misuse or deployment on unauthorized machines could result in legal or 
   disciplinary actions.
 
+##
+
+## Usage Warning
+Use this prank responsibly. Avoid executing it on public or work systems, as it could disrupt important tasks and lead to unintended consequences.
 
 
+##
 
+This project demonstrates how basic scripting and batch commands can simulate realistic computer behaviors. It also showcases the potential of software engineering for playful, creative, yet non-malicious purposes.
 
 
 
