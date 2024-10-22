@@ -14,4 +14,4 @@ Simple Yes/No Dialog:
 
 Option Behavior:
 - If the user selects "Yes":
-- - ant
+ -  ant
