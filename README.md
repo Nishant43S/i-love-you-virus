@@ -45,7 +45,7 @@ If the user selects "No":
 
 ##
 
-## Usage Warning
+<h5>Usage Warning</h5>
 Use this prank responsibly. Avoid executing it on public or work systems, as it could disrupt important tasks and lead to unintended consequences.
 
 
